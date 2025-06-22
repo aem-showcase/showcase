@@ -2,6 +2,7 @@
   "supportscredentials":true,
   "alloworigin": [
     "http://localhost:3000",
+    "https:/localhost:9080",
     "https://.*\\.adobeio-static\\.net",
     "https://3374739-cfpreview.adobeio-static.net"
   ],
