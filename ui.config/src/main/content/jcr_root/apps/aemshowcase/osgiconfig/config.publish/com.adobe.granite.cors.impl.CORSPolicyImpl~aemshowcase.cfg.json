@@ -22,10 +22,12 @@
     "https://main--frescopa-dba--aem-showcase.aem.page",
     "https://main--frescopa-da--aem-showcase.aem.live",
     "https://main--frescopa-da--aem-showcase.aem.page",
-    "https://main--frescopa-da--aem-showcase.ue.da.live",   
+    "https://main--frescopa-da--aem-showcase.ue.da.live",
+    "https://main--frescopa-da--aem-showcase.preview.da.live",
     "https://main--frescopa-business-da--aem-showcase.aem.live",
     "https://main--frescopa-business-da--aem-showcase.aem.page",
     "https://main--frescopa-business-da--aem-showcase.ue.da.live",   
+    "https://main--frescopa-business-da--aem-showcase.preview.da.live",
     "https://frescopa.coffee"
   ],
   "allowedpaths": [
