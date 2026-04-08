@@ -6,7 +6,6 @@
     "https://.*\\.adobeio-static\\.net",
     "https://3374739-cfpreview.adobeio-static.net",
     "https://main--frescopa-da--aem-showcase.ue.da.live",
-    "https://experience.adobe.com",
     "https://.*\\.ue\\.da\\.live"
   ],
   "allowedpaths": [".*"],
