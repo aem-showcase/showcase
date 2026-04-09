@@ -28,7 +28,8 @@
     "https://main--frescopa-business-da--aem-showcase.aem.page",
     "https://main--frescopa-business-da--aem-showcase.ue.da.live",   
     "https://main--frescopa-business-da--aem-showcase.preview.da.live",
-    "https://frescopa.coffee"
+    "https://frescopa.coffee",
+    "https://new.frescopa.coffee"
   ],
   "allowedpaths": [
     ".*"
